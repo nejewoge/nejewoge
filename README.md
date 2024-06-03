@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nejewoge
-- 👀 I’m interested in Python, Data Science and machine learning. I like open source projects.
+- 👀 What I am interested in changes. I like open source projects.
 - 🌱 I’m currently learning, well, github for now.
 
 
